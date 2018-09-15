@@ -1,0 +1,9 @@
+Building inexcoin
+
+See doc/readme-qt.rst for instructions on building inexcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of inexcoin.
+
+See doc/build-*.txt for instructions on building inexcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of inexcoin.
